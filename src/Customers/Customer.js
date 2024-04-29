@@ -1,10 +1,12 @@
 import Heading from "./Heading"
+import NewCustomer from "./NewCustomer"
 
 function Customer() {
     return (
         <div className="">
             <Heading />
-            hello
+            <NewCustomer />
+            
         </div>
     )
 }
