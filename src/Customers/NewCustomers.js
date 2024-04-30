@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-function NewCustomer() {
+function NewCustomers() {
   const initialFormData = {
     customerName: "",
     code: "",
@@ -302,4 +302,4 @@ function NewCustomer() {
   );
 }
 
-export default NewCustomer;
+export default NewCustomers;
